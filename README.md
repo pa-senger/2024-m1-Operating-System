@@ -1,1 +1,1 @@
-# 2024-m1-Operating-System
+# 2024-m1-Operating-System CSMI course
